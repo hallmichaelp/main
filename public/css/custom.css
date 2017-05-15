@@ -3,3 +3,13 @@
   font-size: 5em;
   margin-top: 17%;
 }
+
+/*.header-content {
+  margin-top: 50px;
+  margin-bottom: 75px;
+}*/
+
+header {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
