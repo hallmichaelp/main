@@ -16,10 +16,8 @@
 
 @section('content')
 
+  <a hre="/headers"><h3>HTTP Headers</h3></a>
   <a href="https://a3.michaelpatrickhall.com"><h3>Password Generator</h3></a>
-  <p>Description goes here.</p>
-
   <a href="https://a4.michaelpatrickhall.com"><h3>World Geography Quiz</h3></a>
-  <p>Description goes here.</p>
 
 @endsection

@@ -44,8 +44,8 @@
             <div class="menu-sidebar">
               <ul class="menu">
                 <li><a href="/">Home</a></li>
-                <li><a href="#">About</a></li>
                 <li><a href="/projects">Projects</a></li>
+                <li><a href="#">About</a></li>
               </ul>
             </div>
           </div>
