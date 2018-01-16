@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class HeaderController extends Controller
 {
     public function showHeader() {
-      return view('home');
+      return view('header');
     }
 }
